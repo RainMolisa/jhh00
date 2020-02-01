@@ -1,0 +1,55 @@
+﻿生成启动时间为 2013/7/29 15:37:48。
+     1>项目“D:\Stuboo\c++代码\atk160\ATKLib\ATKLib.vcxproj”在节点 3 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\ATKLib.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\HTKLib /I..\SYNLib /I..\CMU_US_KAL16 /Zi /nologo /W1 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _LIB /D _VC80_UPGRADE=0x0710 /D _MBCS /GF /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ABuffer.cpp ACode.cpp AComponent.cpp ADict.cpp AGram.cpp AHmms.cpp AHTK.cpp AIO.cpp ALog.cpp AMonitor.cpp ANGram.cpp APacket.cpp ARec.cpp AResource.cpp ARMan.cpp ASource.cpp ASplash.cpp ASyn.cpp ATee.cpp
+         ABuffer.cpp
+         ACode.cpp
+         AComponent.cpp
+         ADict.cpp
+         AGram.cpp
+         AHmms.cpp
+         AHTK.cpp
+         AIO.cpp
+         ALog.cpp
+         AMonitor.cpp
+         ANGram.cpp
+         APacket.cpp
+         ARec.cpp
+         AResource.cpp
+         ARMan.cpp
+         ASource.cpp
+         ASplash.cpp
+         ASyn.cpp
+         ATee.cpp
+         正在生成代码...
+       Lib:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"Release\ATKLib.lib" /NOLOGO Release\ABuffer.obj
+         Release\ACode.obj
+         Release\AComponent.obj
+         Release\ADict.obj
+         Release\AGram.obj
+         Release\AHmms.obj
+         Release\AHTK.obj
+         Release\AIO.obj
+         Release\ALog.obj
+         Release\AMonitor.obj
+         Release\ANGram.obj
+         Release\APacket.obj
+         Release\ARec.obj
+         Release\AResource.obj
+         Release\ARMan.obj
+         Release\ASource.obj
+         Release\ASplash.obj
+         Release\ASyn.obj
+         Release\ATee.obj
+         ATKLib.vcxproj -> D:\Stuboo\c++代码\atk160\ATKLib\Release\ATKLib.lib
+       FinalizeBuildStatus:
+         正在删除文件“Release\ATKLib.unsuccessfulbuild”。
+         正在对“Release\ATKLib.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\Stuboo\c++代码\atk160\ATKLib\ATKLib.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:28.99

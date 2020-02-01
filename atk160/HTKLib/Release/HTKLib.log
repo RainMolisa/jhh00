@@ -1,0 +1,63 @@
+﻿生成启动时间为 2013/7/29 15:37:48。
+     1>项目“D:\Stuboo\c++代码\atk160\HTKLib\HTKLib.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\HTKLib.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I../../tHIS/HISLib /I../../atk/ATKLib /I../../atk/HTKLib /Zi /nologo /W1 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _LIB /D WINGRAFIX /D _VC80_UPGRADE=0x0710 /D _MBCS /GF /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt HAdapt.c HAudio.c HDict.c HFB.c HGraf.c HLabel.c HLat.c HLM.c HMath.c HMem.c HModel.c HNBest.c HNet.c HParm.c HRec.c HShell.c HSigP.c HThreads.c HTrain.c HUtil.c HVQ.c HWave.c
+         HAdapt.c
+         HAudio.c
+         HDict.c
+         HFB.c
+         HGraf.c
+         HLabel.c
+         HLat.c
+         HLM.c
+         HMath.c
+         HMem.c
+         HModel.c
+         HNBest.c
+         HNet.c
+         HParm.c
+         HRec.c
+         HShell.c
+         HSigP.c
+         HThreads.c
+         HTrain.c
+         HUtil.c
+         正在生成代码...
+         正在编译...
+         HVQ.c
+         HWave.c
+         正在生成代码...
+       Lib:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"Release\HTKLib.lib" /NOLOGO Release\HAdapt.obj
+         Release\HAudio.obj
+         Release\HDict.obj
+         Release\HFB.obj
+         Release\HGraf.obj
+         Release\HLabel.obj
+         Release\HLat.obj
+         Release\HLM.obj
+         Release\HMath.obj
+         Release\HMem.obj
+         Release\HModel.obj
+         Release\HNBest.obj
+         Release\HNet.obj
+         Release\HParm.obj
+         Release\HRec.obj
+         Release\HShell.obj
+         Release\HSigP.obj
+         Release\HThreads.obj
+         Release\HTrain.obj
+         Release\HUtil.obj
+         Release\HVQ.obj
+         Release\HWave.obj
+         HTKLib.vcxproj -> D:\Stuboo\c++代码\atk160\HTKLib\Release\HTKLib.lib
+       FinalizeBuildStatus:
+         正在删除文件“Release\HTKLib.unsuccessfulbuild”。
+         正在对“Release\HTKLib.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\Stuboo\c++代码\atk160\HTKLib\HTKLib.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:21.81

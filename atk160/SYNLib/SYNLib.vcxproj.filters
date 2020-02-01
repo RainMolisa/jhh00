@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="cst_alloc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cst_args.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cst_cart.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cst_clunits.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cst_diphone.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cst_endian.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cst_error.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cst_features.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cst_ffeature.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cst_file_stdio.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cst_item.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cst_lexicon.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cst_lpcres.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cst_lts.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cst_lts_rewrites.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cst_mmap_win32.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cst_phoneset.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cst_reflpc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cst_regex.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cst_rel_io.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cst_relation.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cst_sigpr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cst_sigprFP.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cst_ss.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cst_string.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cst_sts.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cst_synth.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cst_tokenstream.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cst_track.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cst_track_io.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cst_units.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cst_utt_utils.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cst_utterance.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cst_val.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cst_val_const.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cst_val_user.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cst_viterbi.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cst_voice.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cst_wave.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cst_wave_io.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="cst_wave_utils.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="flite.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FliteSynthesiser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="rateconv.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="regexp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="regsub.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="cst_alloc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cst_args.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cst_cart.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cst_clunits.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cst_diphone.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cst_endian.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cst_error.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cst_features.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cst_file.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cst_hrg.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cst_item.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cst_lexicon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cst_lts.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cst_lts_rewrites.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cst_phoneset.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cst_regex.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cst_relation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cst_sigpr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cst_ss.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cst_string.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cst_sts.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cst_synth.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cst_tokenstream.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cst_track.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cst_units.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cst_utt_utils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cst_utterance.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cst_val.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cst_val_const.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cst_val_defs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cst_viterbi.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cst_voice.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="cst_wave.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="flite.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FliteSynthesiser.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+  </ItemGroup>
+</Project>

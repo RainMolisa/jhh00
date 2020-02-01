@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="us_aswd.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="us_dur_stats.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="us_durz_cart.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="us_expand.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="us_f0_model.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="us_f0lr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="us_ffeatures.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="us_gpos.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="us_int_accent_cart.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="us_int_tone_cart.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="us_nums_cart.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="us_phoneset.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="us_phrasing_cart.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="us_postlex.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="us_text.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="usenglish.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\CMU_Lexicon\cmu6_lts_rules.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="us_durz_cart.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="us_f0.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="us_ffeatures.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="us_int_accent_cart.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="us_int_tone_cart.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="us_nums_cart.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="us_phrasing_cart.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="us_text.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="usenglish.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+  </ItemGroup>
+</Project>
